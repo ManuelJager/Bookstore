@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="entities" id="065A004D-4780-E820-D00F-E7EBC1ABC17B" version="3.5">
+<createdBy>Manue</createdBy>
+<createdTime>2020-09-07 08:04:22 UTC</createdTime>
+<ownerDesignName>entities</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>065A004D-4780-E820-D00F-E7EBC1ABC17B</designId>
+</OSDM_Design>
