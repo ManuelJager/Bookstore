@@ -106,5 +106,3 @@ C:\Projects\Sprints\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.CopyComplete
 C:\Projects\Sprints\Bookstore\Bookstore\obj\Debug\Bookstore.dll
 C:\Projects\Sprints\Bookstore\Bookstore\obj\Debug\Bookstore.pdb
 C:\Projects\Sprints\Bookstore\Bookstore\obj\Debug\Bookstore.csprojAssemblyReference.cache
-C:\Projects\Sprints\Bookstore\Bookstore\obj\Debug\Bookstore.Migrations.ApplicationUserInfo.resources
-C:\Projects\Sprints\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.GenerateResource.cache
